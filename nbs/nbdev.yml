@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "test-docs-versioning"
+  site-url: "https://harishmohanraj.github.io/test-docs-versioning"
+  description: "test-docs-versioning"
+  repo-branch: main
+  repo-url: "https://github.com/harishmohanraj/test-docs-versioning"
